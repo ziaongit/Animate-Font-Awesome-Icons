@@ -1,0 +1,2 @@
+## Animate FontAwesome Icons
+This is a simple project to create some animated font-awesome effects using vanilla JavaScript. This is a simple project but I thought a cool one to share. I am really liking creating things with plain JavaScript.
